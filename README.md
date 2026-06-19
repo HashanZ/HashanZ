@@ -36,7 +36,16 @@
 
 ###
 
-<p align="left">I'm Hashan Madhushanka ,<br><br>- 📍 Location:  Colombo, Sri Lanka  <br>- 🎓 Education:  Software Engineering Student <br>- 💼 Looking for:  Internship Opportunities</p>
+<p align="left">
+I'm Hashan Madhushanka ,<br><br>
+📍 Location: Colombo, Sri Lanka <br>
+🎓 Education: Software Engineering Student <br>
+💼 Looking for: Internship Opportunities <br><br>
+<a href="mailto:hashan9053@gmail.com">
+  <img src="https://img.shields.io/badge/Email-hashan9053%40gmail.com-blue?style=flat-square&logo=gmail" alt="Email">
+</a>
+</p>
+
 
 ###
 
